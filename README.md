@@ -59,7 +59,7 @@ Investigate the pricing, discounting, and cost structure of loss-making Bookcase
 
 ## Dashboard Link
 
-Add your public Looker Studio report link here.
+https://datastudio.google.com/reporting/6ac4ceaf-eac4-4c52-a1e4-ba43d833be6e
 
 ## Future Improvements
 
